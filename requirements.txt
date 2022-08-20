@@ -1,6 +1,6 @@
 transformers 
 sentencepiece
-python-Levenshtein 
+Levenshtein 
 fuzzywuzzy
 sentence-transformers
 
