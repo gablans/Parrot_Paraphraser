@@ -8,9 +8,9 @@ setuptools.setup(
     author_email="",
     description="Parrot paraphraser",
     long_description="Parrot paraphraser",
-    url="https://github.com/PrithivirajDamodaran/Parrot.git",
+    url="https://github.com/gablans/Parrot_Paraphraser.git",
     packages=setuptools.find_packages(),
-    install_requires=['transformers', 'sentencepiece', 'python-Levenshtein', 'sentence-transformers', 'fuzzywuzzy'],
+    install_requires=['transformers', 'sentencepiece', 'Levenshtein', 'sentence-transformers', 'fuzzywuzzy'],
     classifiers=[
         "Programming Language :: Python :: 3.7",
         "License :: Apache 2.0",
